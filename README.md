@@ -1,12 +1,12 @@
 # _Word Count Code Review_
 
-##### _{Counts how many words are in a sentence.}, {September 5, 2015}_
+##### _Counts how many words are in a sentence. September 5, 2015_
 
-#### By _**{Trevor Scherling}**_
+#### By _**Trevor Scherling**_
 
 ## Description
 
-_{This app will allow the user to first type in a sentence. Then type a word that is within the sentence to see how many times that word is used.}_
+_This app will allow the user to first type in a sentence. Then type a word that is within the sentence to see how many times that word is used._
 
 ## Setup
 
@@ -20,11 +20,11 @@ _{Leave nothing to chance! You want it to be easy for potential employers and co
 
 ## Technologies Used
 
-_{Tell me about the languages you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_Ruby, Sinatra_
 
 ### Legal
 
-Copyright (c) 2015 **_{Trevor Scherling}_**
+Copyright (c) 2015 **_Trevor Scherling_**
 
 This software is licensed under the MIT license.
 
