@@ -8,6 +8,6 @@ describe('String#word_count') do
   end
 
   it("scans the sentence for the given word and returns the number of times the word appears regardless of the of case") do
-    expect("COFfee is delicious, coffee TASTE good".word_count("coffee")).to(eq(2))
+    expect("COFFEE is delicious, coffee TASTE good".word_count("coffee")).to(eq(2))
   end
 end
