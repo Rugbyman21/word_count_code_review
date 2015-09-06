@@ -10,17 +10,17 @@ _This app will allow the user to first type in a sentence. Then type a word that
 
 ## Setup
 
-* _first you need to clone this _
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Are there other applications this app depends on?}_
+* _First clone repository $ https://github.com/Rugbyman21/word_count_code_review.git_
+* _In the terminal, assuming the file is in the Desktop, type in $ cd Desktop/word_count_code_review to get into the folder_
+* _In the terminal, type in $ bundle install_
+* _Run $ rspec_
+* _In the terminal, run $ ruby app.rb_
+* _Open a browsing system and type, localhost:4567_
+* _Note: Application could also be in Heroku: _
 
 ## Technologies Used
 
-_Ruby, Sinatra_
+_This application used Ruby, Sinatra, HTML, CSS_
 
 ### Legal
 
