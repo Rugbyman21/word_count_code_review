@@ -16,7 +16,10 @@ _This app will allow the user to first type in a sentence. Then type a word that
 * _Run $ rspec_
 * _In the terminal, run $ ruby app.rb_
 * _Open a browsing system and type, localhost:4567_
-* _Note: Application could also be in Heroku: _
+
+* _Note: Application could also be in Heroku_
+* _In the browsing system, in the url, put in https://aqueous-cliffs-4965.herokuapp.com/_
+
 
 ## Technologies Used
 
