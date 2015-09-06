@@ -1,4 +1,4 @@
-# _Word Count Code Review_
+# _Word Count Code Review (Resubmit)_
 
 ##### _Counts how many words are in a sentence. September 5, 2015_
 
