@@ -10,15 +10,16 @@ _This app will allow the user to first type in a sentence. Then type a word that
 
 ## Setup
 
-* _First clone repository $ https://github.com/Rugbyman21/word_count_code_review.git_
-* _In the terminal, assuming the file is in the Desktop, type in $ cd Desktop/word_count_code_review to get into the folder_
+* _In the terminal, type $ cd Desktop_
+* _In the terminal, assuming the terminal is in the Desktop, type in $ git clone https://github.com/Rugbyman21/word_count_code_review.git_
+* _In the terminal, type in $ word_count_code_review_
+* _In the terminal, type in $ atom ._
 * _In the terminal, type in $ bundle install_
 * _Run $ rspec_
 * _In the terminal, run $ ruby app.rb_
 * _Open a browsing system and type, localhost:4567_
-
 * _Note: Application could also be in Heroku_
-* _In the browsing system, in the url, put in https://aqueous-cliffs-4965.herokuapp.com/_
+* _In the browsing system, in the url, put in https://aqueous-cliffs-4965.herokuapp.com_
 
 
 ## Technologies Used
